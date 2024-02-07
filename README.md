@@ -4,9 +4,11 @@
 ##
 
 <div>
-  <img height=130cm width=400cm src="https://github-readme-stats.vercel.app/api?username=eudesps&show_icons=true&theme=cobalt"/>
-  <img height=130cm width=400cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudesps&layout=compact&theme=cobalt"/>
+  <img height=130cm src="https://github-readme-stats.vercel.app/api?username=eudesps&show_icons=true&theme=cobalt"/>
+  <img height=130cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudesps&layout=compact&theme=cobalt"/>
 </div>
+
+## Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Eudes-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Eudes-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
@@ -17,7 +19,7 @@
 </div>
 
 ##
-
+## ✌️
 <div> 
   <a href="www.linkedin.com/in/josé-eudes-1859b7214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
