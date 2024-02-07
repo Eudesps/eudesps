@@ -4,8 +4,8 @@
 ##
 
 <div>
-  <img height=130cm src="https://github-readme-stats.vercel.app/api?username=eudesps&show_icons=true&theme=cobalt"/>
-  <img height=130cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudesps&layout=compact&theme=cobalt"/>
+  <img height=130cm width=400cm src="https://github-readme-stats.vercel.app/api?username=eudesps&show_icons=true&theme=cobalt"/>
+  <img height=130cm width=400cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudesps&layout=compact&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eudes-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg">
