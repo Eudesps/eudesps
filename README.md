@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Eudes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eudesps&color=yellow" alt="Profile views" /></p>
 <p>🔭 Atualmente estou estudando algumas tecnologias, descobrindo coisas novas, alimentando a curiosidade.
-  Estudante do curso de Sistemas para internet no Instituto Federal Sertão Pernambucano.</p>
+  Estudante do curso de Sistemas para internet no Instituto Federal do Sertão Pernambucano.</p>
 <div>
   <img height=130cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudesps&layout=compact&theme=cobalt"/>
 </div>
