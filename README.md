@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Eudes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eudesps&color=yellow" alt="Profile views" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eudesps&color=blue" alt="Profile views" /></p>
 
 ## 📝Sobre Mim
 **José Eudes | Mobile Developer** <br>
