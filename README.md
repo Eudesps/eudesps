@@ -8,7 +8,7 @@ Sou estudante de Sistemas para Internet com interesse em desenvolvimento mobile.
 
 ## ⚡Habilidades e Tecnologias
 - **Linguagens:** Java, Kotlin
-- **Frameworks e Bibliotecas:** Android SDK
+- **Frameworks e Bibliotecas:** Android SDK, Spring boot 
 - **Banco de Dados:** SQLite
 - **Ferramentas:** Git, GitHub, Android Studio
   
