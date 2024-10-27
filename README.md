@@ -24,7 +24,7 @@ Sou estudante de Sistemas para Internet com interesse em desenvolvimento mobile.
 ## ⚙️Projetos Destacados
 - [Aplicativo de Notas](https://github.com/Eudesps/anotacoesapp): App desenvolvido na linguagem Kotlin. É basicamente um app onde o usuário pode fazer anotações, tendo um campo para o título e outro para a anotação de fato.
 
-_Contato_ <br>
+_Contato_<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-eudes-1859b7214)
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato comigo.
