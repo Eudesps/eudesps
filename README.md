@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63EEEA&height=120&section=header"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Eudes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eudesps&color=blue" alt="Profile views" /></p>
 
