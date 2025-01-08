@@ -8,8 +8,8 @@
 Sou estudante de Sistemas para Internet com interesse em desenvolvimento mobile. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de programação.
 
 ## ⚡Habilidades e Tecnologias
-- **Linguagens:** Java, Kotlin
-- **Frameworks e Bibliotecas:** Android SDK, Spring boot 
+- **Linguagens:** Java, Kotlin, Python
+- **Frameworks e Bibliotecas:** Android SDK, Spring boot, Django
 - **Banco de Dados:** SQLite
 - **Ferramentas:** Git, GitHub, Android Studio
   
@@ -22,6 +22,7 @@ Sou estudante de Sistemas para Internet com interesse em desenvolvimento mobile.
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Androidstudio&logoColor=1572B6)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql&logoColor=1572B6)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=1572B6)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=1572B6)&nbsp;
 
 ## ⚙️Projetos Destacados
 - [Aplicativo de Notas](https://github.com/Eudesps/anotacoesapp): App desenvolvido na linguagem Kotlin. É basicamente um app onde o usuário pode fazer anotações, tendo um campo para o título e outro para a anotação de fato.
