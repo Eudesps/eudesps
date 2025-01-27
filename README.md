@@ -1,33 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=424266&height=120&section=header"/>
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Eudes</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eudesps&color=424266" alt="Profile views" /></p>
+<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Eudes</h3>
+<code>System.out.println("Welcome to my github!😆")</code>
+<p> <img src="https://komarev.com/ghpvc/?username=eudesps&color=424266" alt="Profile views" /></p>
 
-## 📝Sobre Mim
-**José Eudes | Mobile Developer** <br>
+<p>👨‍💻 Desenvolvedor backand</p>
+<p>🎓 Cursando Sistemas para internet no <a href="https://ifsertaope.edu.br/" target="blank_">IFSertãoPE</a></p>
+<p>🌐 <a href="https://www.linkedin.com/in/eudesps">Linkedln</a></p>
+<hr>
 
-Sou estudante de Sistemas para Internet com interesse em desenvolvimento mobile. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de programação.
-
-## ⚡Habilidades e Tecnologias
-- **Linguagens:** Java, Kotlin, Python
-- **Frameworks e Bibliotecas:** Android SDK, Spring boot, Django
-- **Banco de Dados:** SQLite
-- **Ferramentas:** Git, GitHub, Android Studio
-  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=1572B6)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Androidstudio&logoColor=1572B6)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql&logoColor=1572B6)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=1572B6)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=1572B6)&nbsp;
-
-## ⚙️Projetos Destacados
-- [Aplicativo de Notas](https://github.com/Eudesps/anotacoesapp): App desenvolvido na linguagem Kotlin. É basicamente um app onde o usuário pode fazer anotações, tendo um campo para o título e outro para a anotação de fato.
-
-_Contato_<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-eudes-1859b7214)
-
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato comigo.
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,mysql)](https://skillicons.dev)
