@@ -4,7 +4,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=eudesps&color=424266" alt="Profile views" /></p>
 
 <p>-  👨‍💻 Desenvolvedor backand</p>
-<p>-  🎓 Cursando Sistemas para internet no <a href="https://ifsertaope.edu.br/" target="blank_">IFSertãoPE</a></p>
+<p>-  🎓 Cursando Sistemas para Internet no <a href="https://ifsertaope.edu.br/" target="blank_">IFSertãoPE</a></p>
 <p>-  🌐 <a href="https://www.linkedin.com/in/eudesps">Linkedln</a></p>
 <hr>
 
