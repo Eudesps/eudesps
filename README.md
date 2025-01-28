@@ -3,9 +3,9 @@
 <p></p>
 <p> <img src="https://komarev.com/ghpvc/?username=eudesps&color=424266" alt="Profile views" /></p>
 
-<p>👨‍💻 Desenvolvedor backand</p>
-<p>🎓 Cursando Sistemas para internet no <a href="https://ifsertaope.edu.br/" target="blank_">IFSertãoPE</a></p>
-<p>🌐 <a href="https://www.linkedin.com/in/eudesps">Linkedln</a></p>
+<p>-  👨‍💻 Desenvolvedor backand</p>
+<p>-  🎓 Cursando Sistemas para internet no <a href="https://ifsertaope.edu.br/" target="blank_">IFSertãoPE</a></p>
+<p>-  🌐 <a href="https://www.linkedin.com/in/eudesps">Linkedln</a></p>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,mysql)](https://skillicons.dev)
