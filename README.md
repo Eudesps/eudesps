@@ -8,7 +8,7 @@ Apaixonado por aprender e inovar. Valorizo a jornada criativa tanto quanto o res
 I'm a continuous learning enthusiast and love discovering new ways to acquire knowledge. My passion lies in the creative process, valuing both the journey and the final outcome.
 
 <details>
-<summary><b>Projetos em pessoais</b> ⏬</summary>  
+<summary><b>Projetos pessoais</b> ⏬</summary>  
   
 - [Quiz Educacional](https://github.com/Eudesps/quiz-educacional)
 - [Gestão de Patrimônio](https://github.com/Eudesps/gestao)
