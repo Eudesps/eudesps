@@ -2,9 +2,11 @@
 <p></p>
 <p> <img src="https://komarev.com/ghpvc/?username=eudesps&color=424266" alt="Profile views" /></p>
 
-<p>-  👨‍💻 Desenvolvedor backand, cursando Sistemas para Internet no <a href="https://ifsertaope.edu.br/" target="blank_">IFSertãoPE</a></p>
-<p>-  🌐 <a href="https://www.linkedin.com/in/eudesps">Linkedln</a></p>
+<p>-  👨‍💻 Desenvolvedor backand, cursando Sistemas para Internet no <a href="https://ifsertaope.edu.br/" target="blank_">IFSertãoPE</a>. <a href="https://www.linkedin.com/in/eudesps">Linkedln</a></p>
 <hr>
+
+✨ Apaixonado por aprender e inovar. Valorizo a jornada criativa tanto quanto o resultado.</br>
+🌱 I'm a continuous learning enthusiast and love discovering new ways to acquire knowledge. My passion lies in the creative process, valuing both the journey and the final outcome.
 
 <div align="center">
   <a href="https://github.com/eudesps">
