@@ -7,7 +7,7 @@
 <details>
 <summary><b>Projetos pessoais</b></summary>  
   
-- [Quiz Educacional](https://github.com/Eudesps/quiz-educacional)
+- [App -  Pratiki9 Lab](https://github.com/Eudesps/quiz-educacional)
 - [Gestão de Patrimônio](https://github.com/Eudesps/gestao)
 - [Aplicativo de anotações](https://github.com/Eudesps/anotacoesapp)
 
