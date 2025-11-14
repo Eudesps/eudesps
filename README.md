@@ -1,8 +1,8 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Eudes</h1>
 <b> Desenvolvedor backend, formado em Sistemas para Internet pelo <a href="https://ifsertaope.edu.br/" target="_blank">IFSertãoPE</a>. </b><br/>
 
-[pt] Apaixonado por aprender e inovar. Valorizo a jornada criativa tanto quanto o resultado.</br>
-[en] I'm a continuous learning enthusiast and love discovering new ways to acquire knowledge. My passion lies in the creative process, valuing both the journey and the final outcome.</br>
+[pt] Aprender é essencial e contínuo — com o incentivo certo, alcançamos resultados incríveis.</br>
+[en] Learning is essential and continuous — with the right encouragement, we achieve incredible results.</br>
 
 <details>
 <summary><b>Projetos pessoais</b></summary>  
