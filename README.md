@@ -1,7 +1,7 @@
 <h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Eudes</h2>
 
 ```yaml
-name: Eudes
+name: José Eudes
 role: Back-End Developer & Technology Educator
 focus: Java · Spring Boot · Python · Django · React
 location: Pernambuco, Brazil
